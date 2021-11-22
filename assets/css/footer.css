@@ -1,0 +1,40 @@
+#footerbox {
+    alignment: bottom;
+    height: 50px;
+    color: white;
+    position: relative;
+}
+
+
+#footerbuttons {
+    margin: 0;
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    -ms-transform: translate(-50%, -100%);
+    transform: translate(-50%, -100%);
+}
+
+#footerby {
+    margin: 0;
+    position: absolute;
+    top: 0;
+    left: 50%;
+    -ms-transform: translate(-50%, -0%);
+    transform: translate(-50%, -0%);
+}
+
+#footerbutton1 {
+    color: white;
+    border: none;
+}
+
+#footerbutton2 {
+    color: white;
+    border: none;
+}
+
+#footerbutton3 {
+    color: white;
+    border: none;
+}
