@@ -2,8 +2,12 @@
     //Links
     const imprint = "https://sancraft.de/imprint"
     const privacy = "https://sancraft.de/privacy"
-    const github = "https://github.com/SanCraftDev/SanCraftDev-Website"
 </script>
+
+<script>
+    function git() {window.location.href = "https://github.com/SanCraftDev/SanCraftDev-Website/blob/master" + window.location.pathname + "index.html";}
+</script>
+
 <div class="bg-dark" id="footerbox">
     <div id="footerby">© SanCraft - 2021</div>
     <div id="footerbuttons">
@@ -11,7 +15,7 @@
         -
         <button class="bg-dark" id="footerbutton2" onclick="window.location.href = privacy">Privacy policy</button>
         -
-        <button class="bg-dark" id="footerbutton3" onclick="window.location.href = github">View on Github</button>
+        <button class="bg-dark" id="footerbutton3" onclick="git()">View on Github</button>
     </div>
 </div>
 <link href="https://sancraft.de/assets/css/footer.css" rel="stylesheet" type="text/css">
