@@ -26,6 +26,7 @@ Redirect /staff https://web.staffplusplus.org
 Redirect /discord https://discord.com/invite/d72Wjyym6m
 Redirect /dc https://discord.com/invite/d72Wjyym6m
 Redirect /github https://github.com/SanCraftDev
+Redirect /git https://github.com/SanCraftDev
 Redirect /web https://sancraft.de
 Redirect /dev https://sancraft.dev
 Redirect /podcast https://anchor.fm/sancraft
