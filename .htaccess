@@ -6,18 +6,17 @@ Redirect /pb https://discord.com/api/oauth2/authorize?client_id=7420961513014558
 
 Redirect /a24dmng https://map.a24dmng.de/
 Redirect /a24 https://map.a24dmng.de/
-Redirect /lobby https://map.a24dmng.de/
+Redirect /lobby https://lobby.sancraft.de/
 Redirect /oneblock https://ob.sancraft.de/
 Redirect /ob https://ob.sancraft.de/
 Redirect /map https://map.sancraft.de/
 Redirect /survival https://map.sancraft.de/
 Redirect /sc https://map.sancraft.de/
 Redirect /sch https://map.sancraft.de/
+Redirect /aa https://map.san0j.de/
 
 Redirect /xray https://www.curseforge.com/minecraft/texture-packs/xray-ultimate-1-11-compatible
 Redirect /dark https://github.com/xnebulr/Minecraft-Default-Dark-Mode/
-Redirect /18new https://www.reddit.com/r/Minecraft/comments/ilauey/i_made_a_resource_pack_that_updates_18_textures/
-Redirect /18new2 https://www.planetminecraft.com/texture-pack/1-17-ores-for-1-8-9/
 
 Redirect /ban https://web.staffplusplus.org
 Redirect /staff++ https://web.staffplusplus.org
@@ -30,14 +29,17 @@ Redirect /github https://github.com/SanCraftDev
 Redirect /web https://sancraft.de
 Redirect /dev https://sancraft.dev
 Redirect /podcast https://anchor.fm/sancraft
+Redirect /fm https://anchor.fm/sancraft
 Redirect /you https://www.youtube.com/channel/UCipvf0gWwKniPFqzjdBFuOQ
 Redirect /tube https://www.youtube.com/channel/UCipvf0gWwKniPFqzjdBFuOQ
 Redirect /youtube https://www.youtube.com/channel/UCipvf0gWwKniPFqzjdBFuOQ
+Redirect /yt https://www.youtube.com/channel/UCipvf0gWwKniPFqzjdBFuOQ
 Redirect /vogel https://twitter.com/SanCraftDev
 Redirect /twitter https://twitter.com/SanCraftDev
 Redirect /blau https://twitter.com/SanCraftDev
 Redirect /blue https://twitter.com/SanCraftDev
 Redirect /bird https://twitter.com/SanCraftDev
+Redirect /i /imprint
 
 RewriteEngine On
 RewriteBase /
