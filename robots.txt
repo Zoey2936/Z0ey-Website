@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /imprint
 Disallow: /privacy
 
-Sitemap: https://sancraft.de/sitemap.xml
+Sitemap: https://san0j.de/sitemap.xml
