@@ -4,24 +4,19 @@ Redirect /webmail https://mailcow.san0j.de
 Redirect /wm https://mailcow.san0j.de
 Redirect /pb https://discord.com/api/oauth2/authorize?client_id=742096151301455882&permissions=274877908992&scope=applications.commands%20bot
 
-Redirect /a24dmng https://map.a24dmng.de/
-Redirect /a24 https://map.a24dmng.de/
-Redirect /lobby https://lobby.sancraft.de/
-Redirect /oneblock https://ob.sancraft.de/
-Redirect /ob https://ob.sancraft.de/
-Redirect /map https://map.sancraft.de/
-Redirect /survival https://map.sancraft.de/
-Redirect /sc https://map.sancraft.de/
-Redirect /sch https://map.sancraft.de/
-Redirect /aa https://map.san0j.de/
+Redirect /a24dmng https://map.a24dmng.de
+Redirect /a24 https://map.a24dmng.de
+Redirect /lobby https://lobby.sancraft.de
+Redirect /oneblock https://ob.sancraft.de
+Redirect /ob https://ob.sancraft.de
+Redirect /map https://map.sancraft.de
+Redirect /survival https://map.sancraft.de
+Redirect /sc https://map.sancraft.de
+Redirect /sch https://map.sancraft.de
+Redirect /aa https://map.san0j.de
 
 Redirect /xray https://www.curseforge.com/minecraft/texture-packs/xray-ultimate-1-11-compatible
-Redirect /dark https://github.com/xnebulr/Minecraft-Default-Dark-Mode/
-
-Redirect /ban https://web.staffplusplus.org
-Redirect /staff++ https://web.staffplusplus.org
-Redirect /s+ https://web.staffplusplus.org
-Redirect /staff https://web.staffplusplus.org
+Redirect /dark https://github.com/xnebulr/Minecraft-Default-Dark-Mode
 
 Redirect /discord https://discord.com/invite/d72Wjyym6m
 Redirect /dc https://discord.com/invite/d72Wjyym6m
