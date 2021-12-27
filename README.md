@@ -1,3 +1,3 @@
-# SanCraft-Website
+# Sanoj-Website
 
-The San0j Website
+The Sanoj Website
