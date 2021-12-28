@@ -1,5 +1,5 @@
 RewriteEngine On
-Redirect /rss https://sancraft.de:8443
+Redirect /rss https://rss.sancraft.de
 Redirect /webmail https://mailcow.san0j.de
 Redirect /wm https://mailcow.san0j.de
 Redirect /pb https://discord.com/api/oauth2/authorize?client_id=742096151301455882&permissions=274877908992&scope=applications.commands%20bot
