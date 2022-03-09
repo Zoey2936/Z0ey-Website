@@ -4,6 +4,7 @@ desktop.files.json
 package-lock.json
 yarn.lock 
 desktop.ini
+config.*
 
 composer.phar
 /vendor/
