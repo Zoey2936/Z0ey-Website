@@ -13,14 +13,26 @@
     <link href="https://dl.sancraft.de/images/SC/SanCraft.ico" rel="icon">
     
     <style type="text/css">
-    .general {
-      display: flex;
-      flex-direction: column;
-      height: 100vh;
+    html, body {
+    margin: 0;
+    height: 100%;
+    min-height: 100%;
+    }
+    
+    body {
+    display: flex;
+    flex-direction: column;
     }
 
-    .main {
-      flex-grow: 1;
+    header,
+    footer {
+    flex: none;
+    }
+
+    main {
+    overflow-y: scroll;
+    -webkit-overflow-scrolling: touch;
+    flex: auto;
     }
     </style>
 </head>
