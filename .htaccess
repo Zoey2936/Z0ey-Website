@@ -17,6 +17,8 @@ Redirect /dark https://github.com/xnebulr/Minecraft-Default-Dark-Mode
 Redirect /Setup /setup
 Redirect /setup.pdf /setup
 
+Header set Access-Control-Allow-Origin 'mozilla.github.io'
+
 <IfModule mod_rewrite.c>
 RewriteEngine On
 RewriteBase /
