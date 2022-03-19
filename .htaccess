@@ -1,0 +1,26 @@
+RewriteEngine On
+Redirect /discord https://discord.com/invite/d72Wjyym6m
+Redirect /dc https://discord.com/invite/d72Wjyym6m
+
+Redirect /github https://github.com/2020Sanoj
+Redirect /twitch https://www.twitch.tv/2020sanoj
+Redirect /twitter https://twitter.com/2020sanoj
+Redirect /insta https://www.instagram.com/san0j2020
+Redirect /instagram https://www.instagram.com/san0j2020
+Redirect /fiverr https://fiverr.com/s2/5835fc1cb6
+
+Redirect /regeln https://dl.san0j.de/regeln
+
+Redirect /xray https://www.curseforge.com/minecraft/texture-packs/xray-ultimate-1-11-compatible
+Redirect /dark https://github.com/xnebulr/Minecraft-Default-Dark-Mode
+
+Redirect /Setup /setup
+Redirect /setup.pdf /setup
+
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^.*$ /yourls-loader.php [L]
+</IfModule>
