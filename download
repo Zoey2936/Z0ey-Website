@@ -1,0 +1,800 @@
+<!DOCTYPE html>
+<html>
+    <head>
+	<meta charset="utf-8">
+	
+	<link href='https://fonts.googleapis.com/css?family=Bigelow+Rules|Roboto:400,300,700,900,300italic' rel='stylesheet' type='text/css'>
+	<link href="css/jquery-ui.css" rel="stylesheet" type="text/css">
+
+
+<link href="css/style.css?version=14" rel="stylesheet" type="text/css">
+	    	<link rel="stylesheet" media="screen" type="text/css" href="colorpicker/css/colorpicker.css" />
+		<script src="https://kit.fontawesome.com/04442d3f1d.js" crossorigin="anonymous"></script>
+	<title>The ultimate favicon generator - Favic-o-Matic</title>
+	<meta name="theme-color" content="#96B0A3"/>
+	<meta name="keywords" content="favicon, generator, free tool, iOS, Android, Metro tile, icon, Safari, Firefox, Chrome, IE, Internet explorer, Windows 8, buy us a coffe with bitcoin, monero or paypal" />
+	<meta name="description" content="Check this amazing tool, it creates EVERY kind of favicon you need, including iOS icons, Android icons, Metro tile icon and more! Favic-O-Matic is the FIRST favicon generator to correctly handle transparent favicon from png!" />
+	<meta property="og:title" content="The ultimate favicon generator - Favic-o-Matic" />
+	<meta property="og:url" content="http://favicomatic.com/" />
+	<meta property="og:image" content="http://favicomatic.com/img/favic-o-matic.png" />
+	<meta property="og:description" content="Check this amazing tool, it creates EVERY kind of favicon you need, including iOS icons, Android icons, Metro tile icon and more! Favic-O-Matic is the FIRST favicon generator to correctly handle transparent favicon from png!" />
+	<meta property="og:site_name" content="Favic-o-Matic" />
+	<meta name="google-site-verification" content="WAhqy9BI0jj9J3ZbyXDeWF9CKbAdEP0xIbd8vsZeH5c" />
+	<meta property="fb:admins" content="1601148501" />
+	<script type="text/javascript" src="https://code.jquery.com/jquery-1.8.2.min.js" crossorigin="anonymous"></script>
+	<script type="text/javascript" src="https://code.jquery.com/ui/1.9.0/jquery-ui.js" crossorigin="anonymous"></script>
+	<script type="text/javascript" src="js/common.js?version=1" crossorigin="anonymous"></script>
+	<script type="text/javascript" src="js/jquery.zclip.min.js" crossorigin="anonymous"></script>
+	<script type="text/javascript" src="js/jQueryRotateCompressed.js" crossorigin="anonymous"></script>
+	    	<script src="js/jquery.iframe-transport.js" crossorigin="anonymous"></script>
+    	<script src="js/jquery.fileupload.js" crossorigin="anonymous"></script>
+    	<script type="text/javascript" src="colorpicker/js/colorpicker.js" crossorigin="anonymous"></script>
+		<link rel="apple-touch-icon-precomposed" sizes="57x57" href="favicon-57.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="favicon-114.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="favicon-72.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="favicon-144.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="60x60" href="favicon-60.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="favicon-120.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="favicon-76.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="favicon-152.png" />
+	<link rel="icon" type="image/png" href="favicon-196.png" sizes="196x196" />
+	<link rel="icon" type="image/png" href="favicon-96.png" sizes="96x96" />
+	<link rel="icon" type="image/png" href="favicon-32.png" sizes="32x32" />
+	<link rel="icon" type="image/png" href="favicon-16.png" sizes="16x16" />
+	<meta name="application-name" content="Favic-o-Matic - The ultimate favicon generator"/>
+	<meta name="msapplication-TileColor" content="#96B0A3" />
+	<meta name="msapplication-square70x70logo" content="mstile-70x70.png" />
+	<meta name="msapplication-square150x150logo" content="mstile-150x150.png" />
+	<meta name="msapplication-wide310x150logo" content="mstile-310x150.png" />
+	<meta name="msapplication-square310x310logo" content="mstile-310x310.png" />
+	<meta name="msapplication-TileImage" content="favicon-144.png" />
+	<noscript>
+	<link href='/fonts/fontAwesomeWin.css' rel='stylesheet' type='text/css'>
+	</noscript>
+	<script type="text/javascript">
+	    var b = "<style>@font-face{font-family:'fontAwesome';src:";
+	    /win/.test(navigator.userAgent.toLowerCase()) && /chrom(e|ium)/.test(navigator.userAgent.toLowerCase()) || (b += "url('fonts/fontawesome-webfont.eot?v=4.0.3');src:url('fonts/fontawesome-webfont.eot?#iefix&v=4.0.3') format('embedded-opentype'),url('fonts/fontawesome-webfont.woff?v=4.0.3') format('woff'),url('fonts/fontawesome-webfont.ttf?v=4.0.3') format('truetype'),");
+	    b += "url('fonts/fontawesome-webfont.svg?v=4.0.3#fontawesomeregular') format('svg');font-weight:normal;font-style:normal}</style>";
+	    document.write(b);
+	</script>
+
+		    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	    <script>
+		(adsbygoogle = window.adsbygoogle || []).push({
+		google_ad_client: "ca-pub-2310504337748530",
+		enable_page_level_ads: true
+		});
+	    </script>
+	
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css" />
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#64386b",
+      "text": "#ffcdfd"
+    },
+    "button": {
+      "background": "#f8a8ff",
+      "text": "#3f0045"
+    }
+  },
+  "position": "top",
+  "static": false,
+  "content": {
+    "message": "We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services. If you continue browsing this site or click the following button it means you agree with use of cookies.",
+    "dismiss": "OK! Give me all cookies!",
+    "link": "More info...",
+    "href": "/cookies"
+  }
+})});
+</script>
+
+
+
+
+    </head>
+    <body style="width: 1200px; margin: auto;">
+	    	<script>
+    	    (function(i, s, o, g, r, a, m) {
+    		i['GoogleAnalyticsObject'] = r;
+    		i[r] = i[r] || function() {
+    		    (i[r].q = i[r].q || []).push(arguments)
+    		}, i[r].l = 1 * new Date();
+    		a = s.createElement(o),
+    			m = s.getElementsByTagName(o)[0];
+    		a.async = 1;
+    		a.src = g;
+    		m.parentNode.insertBefore(a, m)
+    	    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+    	    ga('create', 'UA-46832555-2', 'favicomatic.com');
+    	    ga('require', 'displayfeatures');
+    	    ga('send', 'pageview');
+    	</script>
+	    
+
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/it_IT/sdk.js#xfbml=1&version=v6.0"></script>
+
+<div class="ban" style="margin: auto;">
+		<div class="cont_banner">
+		    <div class="banner_7281">
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<!-- FAVICO_REACT_1 -->
+	<ins class="adsbygoogle"
+	     style="display:block"
+	     data-ad-client="ca-pub-2310504337748530"
+	     data-ad-slot="2991207049"
+	     data-ad-format="auto"></ins>
+	<script>
+	(adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+		    </div>
+		</div>
+<!-- fine cont-banner -->
+</div>
+	<div id="wrapper" class="clearfix">
+	    <header class="clearfix" >
+		<hgroup class="clearfix" style="margin:0;">
+
+		    <h1>
+		    	<a href="http://favicomatic.com/">
+			    	<span>Favic-o-Matic</span>
+			    	<div id="pt1"></div>
+			    	<div id="pt2"></div>
+			    	<div id="pt3"></div>
+		    	</a>
+		    </h1>
+		    <h2>The ultimate favicon generator</h2>
+
+
+
+		    <div id="cont_menu">
+		    <menu class="clearfix" style="width: max-content;">
+						<li>
+			    <a href="favicon-test"><i class="fas fa-tachometer-alt fa-2x"></i> <span>Favic-o-meter</span></a>
+			</li>
+			<li>
+			    <a href="donate"><i class="fas fa-coffee fa-2x"></i> <span>Donate</span></a>
+			</li>
+		    </menu>
+		    <div id="contShare">
+
+
+			<a href="https://twitter.com/intent/tweet" data-size="small" data-hashtags="favicon,generator" class="twitter-share-button" data-url="https://favicomatic.com" data-via="favicomatic" data-related="favicomatic">Tweet</a>
+			<div class="fb-like" data-href="https://favicomatic.com" data-width="" data-layout="button_count" data-action="recommend" data-size="small" data-share="true"></div>
+
+        		    <script>window.twttr = (function(d, s, id) {
+			      var js, fjs = d.getElementsByTagName(s)[0],
+			        t = window.twttr || {};
+			      if (d.getElementById(id)) return t;
+			      js = d.createElement(s);
+			      js.id = id;
+			      js.src = "https://platform.twitter.com/widgets.js";
+			      fjs.parentNode.insertBefore(js, fjs);
+
+			      t._e = [];
+			      t.ready = function(f) {
+			        t._e.push(f);
+			      };
+
+			      return t;
+			    }(document, "script", "twitter-wjs"));</script>
+
+			  <script type="text/javascript">
+			    (function() {
+				var po = document.createElement('script');
+				po.type = 'text/javascript';
+				po.async = true;
+				po.src = 'https://apis.google.com/js/platform.js';
+				var s = document.getElementsByTagName('script')[0];
+				s.parentNode.insertBefore(po, s);
+			    })();
+			 </script>
+		    </div>
+		</hgroup>
+
+		</div>
+	    </header>
+	    <div class="clearfix" id="super_container">
+		<div id="content" class="clearfix"><div id="centerColumn">
+    <div id="innerCenterColumn">
+	<form enctype="multipart/form-data" action="" method="POST" id="upload_form">
+	    <div class="container title box">
+		<div class="content">Need Something, lad?</div>
+	    </div>
+	    <div class="container box">
+		<div class="content" id="quick_settings">
+		    <span class="item">
+			<input class="left styled" data-rel="simple" type="radio" name="sizeChoice" value="simple" checked id="sizeChoice1">
+			<span><span class="conversation"><label for="sizeChoice1">Just the good ol’ favicon.ico</label></span><br><span class="desc">16x16 + 32x32 px</span></span>
+		    </span>
+		    <span class="item">
+			<input class="left styled" data-rel="apocalypse" type="radio" name="sizeChoice" value="all" id="sizeChoice2">
+			<span><span class="conversation"><label for="sizeChoice2">Every damn size, sir!</label></span><br><span class="desc">including iOS, Android, Metro & more...</span></span>
+		    </span>
+		    <div id="options_link"><a><i class="fas fa-cog"></i> <span>advanced settings</span></a></div>
+		</div>
+	    </div>
+	    <div id="options" class="box">
+		<div id="options_content" class="clearfix">
+		    <div id="inner_options_content">
+
+			<div class="box clearfix">
+			    <div class="options_group_label">Sizes preset :</div>
+			    <div class="options_group" id="sizes_preset_group">
+				<div class="clearfix">
+				    <input class="styled" type="radio" name="sizesPreset" id="sizesPreset1" value="lazy" data-rel="lazy"> <label for="sizesPreset1">lazy</label> <a class="help" title="" data-tooltip="lazy-tooltip"><i class="fas fa-question-circle"></i></a>
+				</div><div class="clearfix">
+				    <input class="styled" type="radio" name="sizesPreset" id="sizesPreset2" value="obsessive" data-rel="obsessive"> <label for="sizesPreset2">obsessive</label> <a class="help" title="" data-tooltip="obsessive-tooltip"><i class="fas fa-question-circle"></i></a>
+				</div><div class="clearfix">
+				    <input class="styled" type="radio" name="sizesPreset" id="sizesPreset3" value="apocalypse" data-rel="apocalypse"> <label for="sizesPreset3">apocalypse</label> <a class="help" title="" data-tooltip="apocalypse-tooltip"><i class="fas fa-question-circle"></i></a>
+				</div>
+			    </div>
+			</div>
+			<div class="box clearfix">
+			    <div class="options_group_label">Sizes :</div>
+			    <div class="options_group" id="sizes_group">
+				<div class="single_option">
+				    <input class="styled simple lazy obsessive apocalypse" name="size[]" value="16x16" type="checkbox" checked id="sizes1" data-rel="16x16">
+				    <label for="sizes1">16x16</label> 
+				    <a class="help" title="" data-tooltip="16x16-tooltip">
+					<i class="fas fa-question-circle"></i>
+				    </a>
+				</div><div class="single_option">
+				    <input class="styled apocalypse" type="checkbox" id="sizes2-5" name="size[]" value="24x24" data-rel="24x24">
+				    <label for="sizes2-5">24x24</label>
+				    <a class="help" title="" data-tooltip="24x24-tooltip">
+					<i class="fas fa-question-circle"></i>
+				    </a>
+				</div><div class="single_option">
+				    <input class="styled simple lazy obsessive apocalypse" type="checkbox" checked id="sizes2" name="size[]" value="32x32" data-rel="32x32">
+				    <label for="sizes2">32x32</label>
+				    <a class="help" title="" data-tooltip="32x32-tooltip">
+					<i class="fas fa-question-circle"></i>
+				    </a>
+				</div><div class="single_option">
+				    <input class="styled apocalypse" type="checkbox" id="sizes3-5" name="size[]" value="48x48" data-rel="48x48">
+				    <label for="sizes3-5">48x48</label>
+				    <a class="help" title="" data-tooltip="48x48-tooltip">
+					<i class="fas fa-question-circle"></i>
+				    </a>
+				</div><div class="single_option">
+				    <input class="styled obsessive apocalypse" type="checkbox" id="sizes4" name="size[]" value="57x57" data-rel="57x57">
+				    <label for="sizes4">57x57</label>
+				    <a class="help" title="" data-tooltip="57x57-tooltip">
+					<i class="fas fa-question-circle"></i>
+				    </a>
+				</div><div class="single_option">
+				    <input class="styled apocalypse" type="checkbox" id="sizes4-5" name="size[]" value="60x60" data-rel="60x60">
+				    <label for="sizes4-5">60x60</label>
+				    <a class="help" title="" data-tooltip="60x60-tooltip">
+					<i class="fas fa-question-circle"></i>
+				    </a>
+				</div><div class="single_option">
+				    <input class="styled apocalypse" type="checkbox" id="sizes3" name="size[]" value="64x64" data-rel="64x64">
+				    <label for="sizes3">64x64</label>
+				    <a class="help" title="" data-tooltip="64x64-tooltip">
+					<i class="fas fa-question-circle"></i>
+				    </a>
+				</div><div class="single_option">
+				    <input class="styled apocalypse" type="checkbox" id="sizes4-7" name="size[]" value="70x70" data-rel="70x70">
+				    <label for="sizes4-7">70x70</label>
+				    <a class="help" title="" data-tooltip="70x70-tooltip">
+					<i class="fas fa-question-circle"></i>
+				    </a>
+				</div><div class="single_option">
+				    <input class="styled obsessive apocalypse" type="checkbox" id="sizes5" name="size[]" value="72x72" data-rel="72x72">
+				    <label for="sizes5">72x72</label>
+				    <a class="help" title="" data-tooltip="72x72-tooltip">
+					<i class="fas fa-question-circle"></i>
+				    </a>
+				</div><div class="single_option">
+				    <input class="styled apocalypse" type="checkbox" id="sizes5-5" name="size[]" value="76x76" data-rel="76x76">
+				    <label for="sizes5-5">76x76</label>
+				    <a class="help" title="" data-tooltip="76x76-tooltip">
+					<i class="fas fa-question-circle"></i>
+				    </a>
+				</div><div class="single_option">
+				    <input class="styled apocalypse" type="checkbox" id="sizes6" name="size[]" value="96x96" data-rel="96x96">
+				    <label for="sizes6">96x96</label>
+				    <a class="help" title="" data-tooltip="96x96-tooltip">
+					<i class="fas fa-question-circle"></i>
+				    </a>
+				</div><div class="single_option">
+				    <input class="styled obsessive apocalypse" type="checkbox" id="sizes6-5" name="size[]" value="114x114" data-rel="114x114">
+				    <label for="sizes6-5">114x114</label>
+				    <a class="help" title="" data-tooltip="114x114-tooltip">
+					<i class="fas fa-question-circle"></i>
+				    </a>
+				</div><div class="single_option">
+				    <input class="styled obsessive apocalypse" type="checkbox" id="sizes7" name="size[]" value="120x120" data-rel="120x120">
+				    <label for="sizes7">120x120</label>
+				    <a class="help" title="" data-tooltip="120x120-tooltip">
+					<i class="fas fa-question-circle"></i>
+				    </a>
+				</div><div class="single_option">
+				    <input class="styled apocalypse" type="checkbox" id="sizes7-5" name="size[]" value="128x128" data-rel="128x128">
+				    <label for="sizes7-5">128x128</label>
+				    <a class="help" title="" data-tooltip="128x128-tooltip">
+					<i class="fas fa-question-circle"></i>
+				    </a>
+				</div><div class="single_option">
+				    <input class="styled lazy obsessive apocalypse" type="checkbox" id="sizes9" name="size[]" value="144x144" data-rel="144x144">
+				    <label for="sizes9">144x144</label>
+				    <a class="help" title="" data-tooltip="144x144-tooltip">
+					<i class="fas fa-question-circle"></i>
+				    </a>
+				</div><div class="single_option">
+				    <input class="styled apocalypse" type="checkbox" id="sizes9-5" name="size[]" value="150x150" data-rel="150x150">
+				    <label for="sizes9-5">150x150</label>
+				    <a class="help" title="" data-tooltip="150x150-tooltip">
+					<i class="fas fa-question-circle"></i>
+				    </a>
+				</div><div class="single_option">
+				    <input class="styled lazy obsessive apocalypse" type="checkbox" id="sizes10" name="size[]" value="152x152" data-rel="152x152">
+				    <label for="sizes10">152x152</label>
+				    <a class="help" title="" data-tooltip="152x152-tooltip">
+					<i class="fas fa-question-circle"></i>
+				    </a>
+				</div><div class="single_option">
+				    <input class="styled apocalypse" type="checkbox" id="sizes10-5" name="size[]" value="196x196" data-rel="196x196">
+				    <label for="sizes10-5">196x196</label>
+				    <a class="help" title="" data-tooltip="196x196-tooltip">
+					<i class="fas fa-question-circle"></i>
+				    </a>
+				</div><div class="single_option">
+				    <input class="styled apocalypse" type="checkbox" id="sizes10-7" name="size[]" value="310x150" data-rel="310x150">
+				    <label for="sizes10-7">310x150</label>
+				    <a class="help" title="" data-tooltip="310x150-tooltip">
+					<i class="fas fa-question-circle"></i>
+				    </a>
+				</div><div class="single_option">
+				    <input class="styled apocalypse" type="checkbox" id="sizes11" name="size[]" value="310x310" data-rel="310x310">
+				    <label for="sizes11">310x310</label>
+				    <a class="help" title="" data-tooltip="310x310-tooltip">
+					<i class="fas fa-question-circle"></i>
+				    </a>
+				</div>
+			    </div>
+			</div>
+			<div class="box clearfix">
+			    <div class="options_group_label">website URL :</div>
+			    <div class="options_group">
+				<input type="text" class="input" id="websiteURL" name="websiteURL" value="http(s)://www.yourWebsite.com/">
+				<a class="help" title="" data-tooltip="website-url-tooltip">
+				    <i class="fas fa-question-circle"></i>
+				</a>
+				<div class="warning hide">
+				    <a class="help" title="" data-tooltip="trailing-slash-tooltip">
+					<i class="fas fa-exclamation-triangle"></i>
+				    </a>
+				</div>
+			    </div>
+			</div>
+			<div class="box clearfix">
+			    <div class="options_group_label">Metro tile options</div>
+			</div>
+			<div class="box clearfix">
+			    <div class="options_group_label">Title :</div>
+			    <div class="options_group">
+				<input type="text" class="input" id="IEtiletitle" name="IEtiletitle" value="Your website title here">
+				<a class="help" title="" data-tooltip="IE-tile-title-tooltip">
+				    <i class="fas fa-question-circle"></i>
+				</a>
+				<a class="tasto" id="retrieveTitle" title="get it automagically from website URL"><i class="fas fa-magic"></i></a>
+			    </div>
+			</div>
+			<div class="box clearfix">
+			    <div class="options_group_label">Background color :</div>
+			    <div class="options_group">
+				<input type="text" class="input" id="IEtilecolor" name="IEtilecolor" value="FFFFFF" maxlength="6">
+				<a class="help" title="" data-tooltip="IE-tile-tooltip">
+				    <i class="fas fa-question-circle"></i>
+				</a>
+			    </div>
+			</div>
+			<div class="box clearfix">
+			    <div class="options_group_label">RSS feed URL :</div>
+			    <div class="options_group">
+				<input type="text" class="input" id="IEtilefeed" name="IEtilefeed" value="">
+				<a class="help" title="" data-tooltip="IE-tile-feed-tooltip">
+				    <i class="fas fa-question-circle"></i>
+				</a>
+			    </div>
+			</div>
+		    </div>
+		</div>
+	    </div>
+	    <div id="progress">
+		<div class="bar" style="width: 0%;"></div>
+	    </div>
+	    <div class="container box">
+		<div class="content center">
+		    <div class="cont_tasto cont_tasto_upload">
+			<a id="tasto_upload" class="tasto"><i class="fas fa-cloud-upload-alt"></i><span class="text">Upload Your Image</span></a>
+		    </div>
+		    <em class="block">Recommended minimum size: <span id="min_size"></span></em>
+		</div>
+	    </div>
+
+	    <div class="hide">
+		<input id="fileupload" type="file" name="files">
+	    </div>
+	</form>
+	<div class="hide" id="tooltip_container">
+	    <div id="lazy-tooltip" class="tooltip">
+		<div class="title">Lazy preset for lazy people</div>
+		<div class="content">including the following sizes:
+		    <ul>
+			<li>16x16 + 32x32 px (multiple .ico + .png)</li>
+			<li>144x144 px</li>
+			<li>152x152 px</li>
+		    </ul>
+		</div>
+	    </div>
+	    <div id="obsessive-tooltip" class="tooltip">
+		<div class="title">Obsessive preset for obsessive people</div>
+		<div class="content">including the following sizes:
+		    <ul>
+			<li>16x16 + 32x32 px (multiple .ico + .png)</li>
+			<li>57x57 px</li>
+			<li>72x72 px</li>
+			<li>114x114 px</li>
+			<li>120x120 px</li>
+			<li>144x144 px</li>
+			<li>152x152 px</li>
+		    </ul>
+		</div>
+	    </div>
+	    <div id="apocalypse-tooltip" class="tooltip">
+		<div class="title">Apocalypse now</div>
+		<div class="content">including the following sizes:
+		    <ul>
+			<li>oh, well...</li>
+			<li>all of 'em!</li>
+		    </ul>
+		</div>
+	    </div>
+	    <div id="trailing-slash-tooltip" class="tooltip">
+		<div class="title">Warning: trailing slash not found!</div>
+		<div class="content">
+		    This may cause some problem with paths, beware!
+		</div>
+	    </div>
+	    <div id="website-url-tooltip" class="tooltip">
+		<div class="title">Why absolute paths?</div>
+		<div class="content">Some Firefox versions require absolute paths. Since all browsers support them, it's the simplest choice.
+		    You can use arbitrary code as well.<br>
+		    <em>eg: &lt;?php echo $_SERVER['SERVER_NAME']; ?&gt;</em>
+		</div>
+	    </div>
+	    <div id="IE-tile-tooltip" class="tooltip">
+		<div class="content">Background color for IE 10 Metro tile icon (Metro equivalent of apple-touch-icon)
+		</div>
+	    </div>
+	    <div id="IE-tile-title-tooltip" class="tooltip">
+		<div class="content">Metro tile title (can be blank if you want)
+		</div>
+	    </div>
+	    <div id="IE-tile-feed-tooltip" class="tooltip">
+		<div class="content">Metro tile RSS feed (can be blank if you want)
+		</div>
+	    </div>
+
+	    <div id="16x16-tooltip" class="tooltip">
+		<div class="content">
+		    The interweb standard for (almost) every browser
+		</div>
+	    </div>
+	    <div id="24x24-tooltip" class="tooltip">
+		<div class="content">
+		    IE9 Pinned site browser UI
+		</div>
+	    </div>
+	    <div id="32x32-tooltip" class="tooltip">
+		<div class="content">
+		    New tab page in IE, taskbar button in Win 7+, Safari Reading List sidebar
+		</div>
+	    </div>
+	    <div id="48x48-tooltip" class="tooltip">
+		<div class="content">
+		    Windows site icons
+		</div>
+	    </div>
+	    <div id="60x60-tooltip" class="tooltip">
+		<div class="content">
+		    iPhone touch icon (non-retina - iOS7)
+		</div>
+	    </div>
+	    <div id="64x64-tooltip" class="tooltip">
+		<div class="content">
+		    Windows site icon, Safari Reading List sidebar in HiDPI/Retina
+		</div>
+	    </div>
+	    <div id="57x57-tooltip" class="tooltip">
+		<div class="content">
+		    Standard iOS home screen (iPod Touch, iPhone first generation to 3G)
+		</div>
+	    </div>
+	    <div id="70x70-tooltip" class="tooltip">
+		<div class="content">
+		    Win 8.1 Metro tile image (small)
+		</div>
+	    </div>
+	    <div id="72x72-tooltip" class="tooltip">
+		<div class="content">
+		    iPad touch icon (non-retina - iOS6 or prior)
+		</div>
+	    </div>
+	    <div id="76x76-tooltip" class="tooltip">
+		<div class="content">
+		    iPad touch icon (non-retina - iOS7)
+		</div>
+	    </div>
+	    <div id="96x96-tooltip" class="tooltip">
+		<div class="content">
+		    GoogleTV icon
+		</div>
+	    </div>
+	    <div id="114x114-tooltip" class="tooltip">
+		<div class="content">
+		    iPhone retina touch icon (iOS6 or prior)
+		</div>
+	    </div>
+	    <div id="120x120-tooltip" class="tooltip">
+		<div class="content">
+		    iPhone retina touch icon (iOS7)
+		</div>
+	    </div>
+	    <div id="128x128-tooltip" class="tooltip">
+		<div class="content">
+		    Chrome Web Store app icon &amp; Android icon (lo-res)
+		</div>
+	    </div>
+	    <div id="144x144-tooltip" class="tooltip">
+		<div class="content">
+		    IE10 Metro tile for pinned site &amp; iPad retina (iOS6 or prior)
+		</div>
+	    </div>
+	    <div id="150x150-tooltip" class="tooltip">
+		<div class="content">
+		    Win 8.1 Metro tile image (square)
+		</div>
+	    </div>
+	    <div id="152x152-tooltip" class="tooltip">
+		<div class="content">
+		    iPad retina touch icon (iOS7)
+		</div>
+	    </div>
+	    <div id="196x196-tooltip" class="tooltip">
+		<div class="content">
+		    Android Chrome (M31+)
+		</div>
+	    </div>
+	    <div id="310x150-tooltip" class="tooltip">
+		<div class="content">
+		    Win 8.1 Metro tile image (wide)
+		</div>
+	    </div>
+	    <div id="310x310-tooltip" class="tooltip">
+		<div class="content">
+		    Win 8.1 Metro tile image (large)
+		</div>
+	    </div>
+	</div>
+	<script type="text/javascript">
+	    jQuery(function() {
+		'use strict';
+		var url = 'upload/';
+		jQuery('#fileupload').fileupload({
+		    url: url,
+		    dataType: 'json',
+		    done: function(e, data) {
+			var is_error = data.result.files[0].error;
+			if (!is_error) {
+			    var uploaded_file_url = data.result.files[0].url;
+			    var uploaded_file_name = data.result.files[0].name;
+
+			    var srt = $("#upload_form").serializeArray();
+			    srt.push({name: 'file', value: uploaded_file_url});
+			    srt.push({name: 'file_name', value: uploaded_file_name});
+
+			    jQuery.ajax({
+				type: 'POST',
+				url: 'form_values.php',
+				data: srt,
+				success: function(message) {
+				    if (message === "ok") {
+//					alert("Well done! now let's go to retrieve the package...");
+					window.location.replace("done");
+				    } else {
+					alert("Oops! Are you shure this file is an image file? Please check again.\n\nIf you are in trouble please contact us.");
+				    }
+				}
+			    });
+			} else {
+			    alert(data.result.files[0].error);
+			}
+		    },
+		    start: function() {
+			jQuery("a#tasto_upload").children("i").removeClass("fa-cloud-upload").addClass("fa-spinner fa-spin");
+			$('#pt2').addClass('rotating');
+		    },
+		    stop: function() {
+			jQuery("a#tasto_upload").children("i").removeClass("fa-spinner fa-spin").addClass("fa-cloud-upload");
+			$('#pt2').removeClass('rotating');
+		    },
+		    progressall: function(e, data) {
+			var progress = parseInt(data.loaded / data.total * 100, 10);
+			$('#progress .bar').css('width', progress + '%');
+		    }
+		}).prop('disabled', !$.support.fileInput)
+			.parent().addClass($.support.fileInput ? undefined : 'disabled');
+	    });
+
+	    jQuery('#IEtilecolor').ColorPicker({
+		onSubmit: function(hsb, hex, rgb, el) {
+		    jQuery(el).val(hex);
+		    jQuery(el).ColorPickerHide();
+		    jQuery(".colorpicker").hide();
+		},
+		onBeforeShow: function() {
+		    jQuery(this).ColorPickerSetColor(this.value);
+		}
+	    });
+	    jQuery("input#websiteURL").on("blur", function() {
+		var URL = jQuery(this).val();
+		if (URL !== "http(s)://www.yourWebsite.com/") {
+		    jQuery("a#retrieveTitle").fadeIn();
+		}
+		checkTrailingSlash(URL, jQuery(this));
+	    });
+	    function checkTrailingSlash(URL, target) {
+		glow = target.siblings(".warning");
+
+		letsGlow = function() {
+		    glow.hasClass('glow') ? glow.removeClass('glow') : glow.addClass('glow');
+		};
+		if (URL.substring(URL.length - 1) !== "/")
+		{
+		    glow.show();
+		    interval_id = setInterval(letsGlow, 1500);
+		} else {
+		    if (typeof interval_id != "undefined") {
+			clearInterval(interval_id);
+		    }
+		    glow.hide();
+		}
+	    }
+	    jQuery('a#retrieveTitle').on("click", function() {
+		var getURL = jQuery("input#websiteURL").val();
+		var tastoRetrieve = jQuery(this);
+		tastoRetrieve.children("i").removeClass().addClass("fas fa-spinner fa-spin");
+		jQuery.ajax({
+		    type: "POST",
+		    url: "fetch-url",
+		    data: {websiteURL: getURL}
+		})
+			.done(function(msg) {
+			    var mess = msg.split("||");
+			    if (mess[0] === "KO") {
+				alert(mess[1]);
+				jQuery("input#IEtiletitle").val("");
+			    } else {
+				jQuery("input#IEtiletitle").val(mess[1]);
+			    }
+			    tastoRetrieve.children("i").removeClass().addClass("fas fa-magic");
+			});
+	    });
+	</script>
+    </div>
+</div>
+<div id="leftColumn" class="clearfix">
+    <div class="banner_300-250">
+	
+
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- FAVICO_REACT_1 -->
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-2310504337748530"
+             data-ad-slot="2991207049"
+             data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+
+	    </div>
+    <div class="clearfix" id="what">
+	<div class="container title">
+	    <div class="content">What's this site about?</div>
+	</div>
+	Favic-o-Matic generates favicons, both .ico & .png (even transparent ones!), and the HTML code needed to make your website look awesome on every browser and every device.<br>
+	<b>Give it a try now, it's free!</b><br>
+	<br>
+	Don't know what a <b>favicon</b> is?<br>
+	Need some help to put the <b>favicon<b> in your site?<br>
+	A couple of interesting links:<br>
+	<a href="https://en.wikipedia.org/wiki/Favicon" target="_blank">Wikipedia</a><br>
+	<a href="https://www.wpmyweb.com/beginners-guide/add-favicon-wordpress-blog.html" target="_blank">How to Add Favicon in WordPress Blog</a><br>
+	<a href="https://github.com/audreyr/favicon-cheat-sheet" target="_blank">Favicon cheat-sheet</a> (beware! really useful!)<br>
+	<a href="https://websitesetup.org/" target="_blank">Websitesetup</a> Create your own web site!<br>
+	<a href="http://mariabeatrice.com/" target="_blank">Maria Beatrice Alonzi</a> The Italian digital artist
+    </div>
+</div><div id="rightColumn" class="clearfix">
+    <div class="banner_300-600">
+	
+    	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    	<!-- FAVICO_300x600 -->
+    	<ins class="adsbygoogle"
+    	     style="display:inline-block;width:300px;height:600px"
+    	     data-ad-client="ca-pub-2310504337748530"
+    	     data-ad-slot="2489217048"></ins>
+    	<script>
+    	    (adsbygoogle = window.adsbygoogle || []).push({});
+    	</script>
+
+
+
+	    </div>
+</div></div> </div> 
+<footer class="clearfix clear">
+
+    <div id="feedback">
+	<div class="innerPadding">
+	    <a class="giveFeedbackLink"><i class="fas fa-comment"></i> Give us feedback</a>
+	    <a href="changelog" title="changelog"><i class="fas fa-edit"></i> Changelog</a>
+	    <a href="cookies" title="cookies policy"><i class="fas fa-cookie"></i> Cookies Policy</a>
+	</div>
+    </div>
+    <div id="credits">
+	<div class="innerPadding">
+	    At your service since 2013 &#169; favicomatic.com
+	</div>
+    </div>
+</footer>
+
+<div class="hide clearfix" id="giveFeedback">
+    <div class="cont">
+	<script type="text/javascript">
+	    var xv1 = 'ailt';
+	    var xv2 = 'hre';
+	    var xv3 = 'f="m';
+	    var xv4 = 'o:';
+	    var xv5 = 'feedback';
+	    var xv6 = 'favicomatic.com';
+	    document.write('<a ' + xv2 + xv3 + xv1 + xv4 + xv5 + '@' + xv6 + '"><i class="far fa-envelope"></i> ' + 'Via e-mail' + '</a>');
+	</script>
+	<a href="https://twitter.com/intent/tweet?original_referer=http%3A%2F%2Ffavicomatic.com%2F&related=favicomatic&screen_name=favicomatic" data-related="favicomatic" target="_blank"><i class="fab fa-twitter"></i> Via Twitter</a>
+    </div>
+</div>
+<div id="adtest">
+    <div class="adBanner">
+&nbsp;
+    </div>
+</div>
+</div> 
+
+<script>
+$(document).ready(function(){
+    if($("#adtest").height() > 0) {
+//        alert('No AdBlock :)');
+    } else {
+        var alerted = localStorage.getItem('alerted') || '';
+        if (alerted != 'yes') {
+        alert('This site depends on ad revenue and donations, feel free to keep your AdBlock active and if you enjoy using Favic-O-Matic please offer us a coffe!');
+         localStorage.setItem('alerted','yes');
+        }
+    }
+});
+</script>
+</body>
+</html>

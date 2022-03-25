@@ -1,0 +1,20 @@
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="https://san0j.deapple-touch-icon-57x57.png" />
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://san0j.deapple-touch-icon-114x114.png" />
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://san0j.deapple-touch-icon-72x72.png" />
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://san0j.deapple-touch-icon-144x144.png" />
+<link rel="apple-touch-icon-precomposed" sizes="60x60" href="https://san0j.deapple-touch-icon-60x60.png" />
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://san0j.deapple-touch-icon-120x120.png" />
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://san0j.deapple-touch-icon-76x76.png" />
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://san0j.deapple-touch-icon-152x152.png" />
+<link rel="icon" type="image/png" href="https://san0j.defavicon-196x196.png" sizes="196x196" />
+<link rel="icon" type="image/png" href="https://san0j.defavicon-96x96.png" sizes="96x96" />
+<link rel="icon" type="image/png" href="https://san0j.defavicon-32x32.png" sizes="32x32" />
+<link rel="icon" type="image/png" href="https://san0j.defavicon-16x16.png" sizes="16x16" />
+<link rel="icon" type="image/png" href="https://san0j.defavicon-128.png" sizes="128x128" />
+<meta name="application-name" content="Homepage - Sanoj"/>
+<meta name="msapplication-TileColor" content="#296236" />
+<meta name="msapplication-TileImage" content="https://san0j.demstile-144x144.png" />
+<meta name="msapplication-square70x70logo" content="https://san0j.demstile-70x70.png" />
+<meta name="msapplication-square150x150logo" content="https://san0j.demstile-150x150.png" />
+<meta name="msapplication-wide310x150logo" content="https://san0j.demstile-310x150.png" />
+<meta name="msapplication-square310x310logo" content="https://san0j.demstile-310x310.png" />
