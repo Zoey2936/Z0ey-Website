@@ -17,10 +17,10 @@ Redirect /dark https://github.com/xnebulr/Minecraft-Default-Dark-Mode
 Redirect /Setup /setup
 Redirect /setup.pdf /setup
 
-<IfModule mod_rewrite.c>
+ErrorDocument 404 https://san0j.de
+
 RewriteEngine On
 RewriteBase /
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule ^.*$ /yourls-loader.php [L]
-</IfModule>
