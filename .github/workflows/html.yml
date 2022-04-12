@@ -18,3 +18,7 @@ jobs:
         css: true
         skip_git_check: true
       continue-on-error: true
+    - uses: actions/upload-artifact@v3
+      with:
+        name: log
+        path: log.log
