@@ -1,4 +1,3 @@
-RewriteEngine On
 Redirect 308 /discord https://discord.com/invite/d72Wjyym6m
 Redirect 308 /dc https://discord.com/invite/d72Wjyym6m
 
