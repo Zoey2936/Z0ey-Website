@@ -3,4 +3,4 @@ Disallow: /imprint
 Disallow: /privacy
 Disallow: /assets
 
-Sitemap: https://san0j.de/sitemap.xml
+Sitemap: https://z0ey.de/sitemap.xml
