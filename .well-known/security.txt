@@ -1,0 +1,20 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Contact: mailto:zoey@z0ey.de
+Expires: 2024-12-31T22:59:00.000Z
+Encryption: https://github.com/Zoey2936.gpg
+Preferred-Languages: de, en
+Canonical: https://z0ey.de/.well-known/security.txt
+Canonical: https://a24dmng.de/.well-known/security.txt
+Canonical: https://physio-koenigsee.de/.well-known/security.txt
+Canonical: https://glaswerk-mellenbach.de/.well-known/security.txt
+Canonical: https://dmng.a24dmng.de/.well-known/security.txt
+Canonical: https://dmz.a24dmng.de/.well-known/security.txt
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQTLgVQUaSqtse3eaSkCo5GetPZzKAUCY7BxFAAKCRACo5GetPZz
+KPdYAP9P+qoI+wc+sJpoJOP4m/oZfymVv0IsBlsKOIfovpk2dwEAqfJtHtbzqcjx
+owWzLJfLEyN977m1dhEhYaWdT1mH2wU=
+=Ud+H
+-----END PGP SIGNATURE-----
